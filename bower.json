@@ -1,0 +1,29 @@
+{
+  "name": "datebryce",
+  "version": "0.0.0",
+  "homepage": "http://datebryce.com",
+  "authors": [
+    "Basil Siddiqui <basil.siddiqui@gmail.com>"
+  ],
+  "description": "awwww yeahhhhh",
+  "main": "index.html",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "bryce",
+    "datebryce"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "requirejs": "~2.1.15",
+    "jquery": "~2.1.3"
+  }
+}

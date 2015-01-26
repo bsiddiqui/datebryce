@@ -11,12 +11,14 @@
     <meta name="description" content="Hi, I'm Bryce... let's date" />
     <meta name="keywords" content="Bryce, Archer, Bryce Archer, dating">
     <meta charset="UTF-8">
+    <script data-main="js/main" src="bower_components/requirejs/require.js"></script>
 </head>
 <body>
   <h1>Hi, I'm <span class="underline">Bryce</span></h1>
   <h2>Let's date</h2>
-  <video controls autoplay loop>
+  <video autoplay loop>
       <source src="assets/flavortripping.mp4" type="video/mp4">
   </video>
+
 </body>
 </html>
