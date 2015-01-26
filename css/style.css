@@ -1,0 +1,21 @@
+body {
+  @import url (http://fonts.googleapis.com/css?family=Indie+Flower);
+  color: #FFF;
+  background: #000;
+  font-family: 'Indie Flower', cursive;
+  text-align: center;
+}
+
+h1, h2 {
+  font-size: 300%;
+  margin: 2px;
+}
+
+.underline {
+  text-decoration: underline;
+}
+
+video {
+  margin: 10px;
+  width: 40%;
+}
