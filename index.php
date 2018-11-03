@@ -25,7 +25,7 @@
 <body>
   <h1>Hi, I'm <span class="underline">Bryce</span></h1>
   <h2>Let's date</h2>
-  <video autoplay loop>
+  <video controls autoplay loop>
       <source src="assets/flavortripping.mp4" type="video/mp4">
   </video>
 
