@@ -26,6 +26,4 @@ var DRAKE = (function(my) {
   return my;
 }({}));
 
-define({
-  switchBg: DRAKE.switchBg
-});
+DRAKE.switchBg(1000);
